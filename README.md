@@ -5,9 +5,9 @@
 ---
 
 ##  Réalisations & Formations
-- 🎓 Master **Intelligence Artificielle** 
-- 🎓 Certificat HarvardX **Data Science Professional** (PH125.1x – PH125.9x)  
-- 🎓 Formations Cloud : **AWS Cloud Practitioner**, **Azure Fundamentals**, **OCI Foundations**  
+-  Master **Intelligence Artificielle** 
+-  Certificat HarvardX **Data Science Professional** (PH125.1x – PH125.9x)  
+-  Formations Cloud : **AWS Cloud Practitioner**, **Azure Fundamentals**, **OCI Foundations**  
 - 🥇 Mémoire Master (18/20) : *Plateforme collaborative et IA pour enfants TND*  
 
 ---
@@ -51,23 +51,21 @@
 ---
 
 ##  Compétences & Domaines d’application
-- 📊 **Analyse exploratoire des données (EDA)** : nettoyage, visualisation et interprétation des données  
-- 🤖 **Modélisation & Entraînement** : conception, entraînement et optimisation de modèles ML & DL  
-- 🔧 **Prétraitement & Feature Engineering** : préparation des données, sélection et transformation de variables  
-- ⚙️ **Optimisation des modèles** : tuning d’hyperparamètres, amélioration de la précision et de la robustesse  
-- 🚀 **Déploiement & Mise en production** : conteneurisation (Docker), intégration API, MLOps  
-- 🛠️ **Surveillance & Maintenance des modèles** : suivi des performances en production, gestion du drift, amélioration continue  
-- ⏱️ **Optimisation des performances** : réduction de la latence, amélioration de la scalabilité  
-- 📈 **Dashboarding & Reporting** : conception de tableaux de bord interactifs (Power BI, Tableau, Excel) pour le pilotage métier  
-- 🧭 **Pilotage de projets IA** : cadrage, conception et suivi de projets orientés **business & résultats**  
-- 🏥 **Domaines d’application** : Santé, Finance, Marketing, Ventes, Supply Chain  
+-  **Analyse exploratoire des données (EDA)** : nettoyage, visualisation et interprétation des données  
+-  **Modélisation & Entraînement** : conception, entraînement et optimisation de modèles ML & DL  
+-  **Prétraitement & Feature Engineering** : préparation des données, sélection et transformation de variables  
+-  **Optimisation des modèles** : tuning d’hyperparamètres, amélioration de la précision et de la robustesse  
+-  **Déploiement & Mise en production** : conteneurisation (Docker), intégration API, MLOps  
+-  **Surveillance & Maintenance des modèles** : suivi des performances en production, gestion du drift, amélioration continue  
+-  **Optimisation des performances** : réduction de la latence, amélioration de la scalabilité  
+-  **Dashboarding & Reporting** : conception de tableaux de bord interactifs (Power BI, Tableau, Excel) pour le pilotage métier  
+-  **Pilotage de projets IA** : cadrage, conception et suivi de projets orientés **business & résultats**  
+-  **Domaines d’application** : Santé, Finance, Marketing, Ventes, Supply Chain  
 
 ---
 
 ##  Contact
 🌐 [LinkedIn](https://www.linkedin.com/in/bibata-sombie)  
-📂
-
 ---
 
-✨ *“L’IA n’a de sens que si elle apporte de la valeur concrète.”* ✨
+ *“L’IA n’a de sens que si elle apporte de la valeur concrète.”* 
