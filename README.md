@@ -1,9 +1,7 @@
-# Bibata SOMBIÉ  
+## Bibata SOMBIÉ  
 
-<p align="center">
-  <b>AI Engineer · Data Scientist · Machine Learning & NLP</b><br/>
-  Python · SQL · Power BI
-</p>
+**AI Engineer · Data Scientist · Machine Learning & NLP**  
+Python · SQL · Power BI
 
 ---
 
