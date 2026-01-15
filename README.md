@@ -1,4 +1,4 @@
-# Bibata SOMBIÉ
+## Bibata SOMBIÉ
 
 **AI Engineer · Data Scientist · Machine Learning & NLP**  
 Python · SQL · Power BI
@@ -44,10 +44,11 @@ ou parcourez ci-dessus un **résumé des projets clés** présentés à travers 
 ---
 
 ## Compétences clés
-- Analyse de données & **EDA** · **Machine Learning / Deep Learning** · Feature engineering & **normalisation / scaling**  
-Déploiement : **Docker**, API, logique **MLOps** · Visualisation orientée **décision métier** · Domaines : **Santé · Finance · Marketing · Supply Chain**
-*
-
+| Compétences Data & ML | Déploiement & Métier |
+|-----------------------|---------------------|
+| Analyse de données & **EDA** | Déploiement : **Docker**, API, logique **MLOps** |
+| **Machine Learning / Deep Learning** | Visualisation & reporting orientés **décision métier** |
+| Feature engineering & **normalisation / scaling** | Domaines : **Santé · Finance · Marketing · Supply Chain** |
 ---
 
 ## Portfolio
@@ -55,7 +56,7 @@ Déploiement : **Docker**, API, logique **MLOps** · Visualisation orientée **d
 ### Customer Segmentation – Machine Learning (K-Means)
 
 <p align="center">
-  <img src="assets/visualisation_clusters_pca.png" width="220"/>
+  <img src="assets/Visualisation des clusters dans le plan PCA.png" width="220"/>
   <img src="assets/segments.png" width="220"/>
   <img src="assets/recmetier.png" width="220"/>
   <img src="assets/elbow_method.png" width="220"/>
@@ -81,7 +82,7 @@ https://github.com/SOMBIEB/customer_segmentation_kmeans_for_business_decision
   <img src="assets/dataset1.png" width="220"/>
   <img src="assets/describedata.png" width="220"/>
   <img src="assets/correlation1.png" width="220"/>
-  <img src="assets/eda_age.png" width="220"/>
+  <img src="assets/EDAage.png" width="220"/>
   <img src="assets/boxplot.png" width="220"/>
   <img src="assets/icomedulevel.png" width="220"/>
 </p>
@@ -89,9 +90,25 @@ https://github.com/SOMBIEB/customer_segmentation_kmeans_for_business_decision
 À partir de données **d’achats clients hétérogènes** et **peu exploitables**, j’ai structuré et fiabilisé des jeux de données à **grande échelle** en réalisant le **nettoyage**, l’**analyse exploratoire (EDA)**, la **sélection de variables orientée métier**, ainsi que la **normalisation et la mise à l’échelle (scaling)** des features, afin de fournir des datasets cohérents et **directement exploitables** par les équipes Data Science et Machine Learning.
 
 ---
+### Data & BI – Analyse & Aide à la décision
 
+<p align="center">
+  <img src="assets/Festival.png" width="220"/>
+  <img src="assets/visurh.png" width="220"/>
+  <img src="assets/vente1.png" width="220"/>
+  <img src="assets/VENTE2.png" width="220"/>
+  <img src="assets/visuvente.png" width="220"/>
+  <img src="assets/visuvente2.png" width="220"/>
+</p>
 
+Conception de **tableaux de bord interactifs** pour analyser des **données culturelles**, **commerciales** et **RH** à partir de sources hétérogènes.  
+**Structuration**, **nettoyage** et **préparation** des données avec **définition d’indicateurs clés orientés pilotage métier**.  
+Analyse des performances de ventes multi-pays et multi-années, avec suivi des objectifs et identification des leviers de croissance.  
+Visualisation des dynamiques géographiques et temporelles pour faciliter la prise de décision stratégique.  
+Analyse de l’attrition RH afin d’identifier les profils à risque et les facteurs explicatifs clés.  
+Restitution claire et synthétique via des dashboards Power BI favorisant des décisions opérationnelles et mesurables.
 
+---
 ## Contact
 🌐 [LinkedIn](https://www.linkedin.com/in/bibata-sombie)
 
