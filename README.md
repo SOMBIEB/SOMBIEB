@@ -1,7 +1,10 @@
-## Bibata SOMBIÉ  
+# Bibata SOMBIÉ
 
 **AI Engineer · Data Scientist · Machine Learning & NLP**  
 Python · SQL · Power BI
+---
+👉 **[Cliquez ici pour visualiser l’ensemble de mes projets en détail](https://github.com/SOMBIEB?tab=repositories)**  
+ou parcourez ci-dessus un **résumé des projets clés** présentés à travers mon portfolio.
 
 ---
 
@@ -12,7 +15,8 @@ Python · SQL · Power BI
 - 🥇 Mémoire Master (18/20) : *Plateforme collaborative et IA pour enfants TND*
 
 ---
-####  Langages
+
+#### Langages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -20,7 +24,6 @@ Python · SQL · Power BI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
 #### AI · ML · Data
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -29,7 +32,6 @@ Python · SQL · Power BI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FED141?style=flat&logo=huggingface&logoColor=black)
 
----
 #### BI · Cloud · DevOps
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -44,19 +46,19 @@ Python · SQL · Power BI
 ## Compétences clés
 - Analyse de données & **EDA**
 - **Machine Learning / Deep Learning**
-- Feature engineering & **scaling**
+- Feature engineering & **normalisation / scaling**
 - Déploiement : **Docker**, API, logique **MLOps**
 - Visualisation & reporting orientés **décision métier**
 - Domaines : **Santé · Finance · Marketing · Supply Chain**
 
 ---
 
-# Portfolio
+## Portfolio
 
 ### Customer Segmentation – Machine Learning (K-Means)
 
 <p align="center">
-  <img src="assets/Visualisation des clusters dans le plan PCA.png" width="220"/>
+  <img src="assets/visualisation_clusters_pca.png" width="220"/>
   <img src="assets/segments.png" width="220"/>
   <img src="assets/recmetier.png" width="220"/>
   <img src="assets/elbow_method.png" width="220"/>
@@ -67,29 +69,33 @@ Python · SQL · Power BI
 **Analyse et structuration d’une base clients** afin d’identifier des profils comportementaux exploitables par les équipes métiers.
 
 - Nettoyage des données, création de **variables métier** et **standardisation des features**
-- Mise en place d’un modèle de **clustering non supervisé (K-Means)** avec sélection du nombre optimal de segments
+- Mise en place d’un **clustering non supervisé (K-Means)** avec sélection du nombre optimal de segments
 - Identification de **5 segments clients distincts** et **interprétation métier** des profils
 - Formulation de **recommandations marketing et commerciales** basées sur les résultats
 
  **Lien du projet**  
- https://github.com/SOMBIEB/customer_segmentation_kmeans_for_business_decision
+https://github.com/SOMBIEB/customer_segmentation_kmeans_for_business_decision
 
 ---
+
 ### Consultant Data – Préparation et fiabilisation des données pour le Machine Learning
 
 <p align="center">
-  <img src="assets/Dataset1.png" width="220"/>
+  <img src="assets/dataset1.png" width="220"/>
   <img src="assets/describedata.png" width="220"/>
   <img src="assets/correlation1.png" width="220"/>
-  <img src="assets/EDAage.png" width="220"/>
+  <img src="assets/eda_age.png" width="220"/>
   <img src="assets/boxplot.png" width="220"/>
   <img src="assets/icomedulevel.png" width="220"/>
 </p>
 
-À partir de données **d’achats clients hétérogènes** et **peu exploitables**, j’ai **structuré** et **fiabilisé** des jeux de données à **grande échelle** en réalisant le **nettoyage**, **l’analyse exploratoire (EDA)**, la **sélection de variables** orientée besoins métier ainsi que la **normalisation** et la **mise à l’échelle (scaling)** des features, afin de fournir des datasets cohérents et **directement exploitables** par les équipes Data Science et Machine Learning.
+À partir de données **d’achats clients hétérogènes** et **peu exploitables**, j’ai structuré et fiabilisé des jeux de données à **grande échelle** en réalisant le **nettoyage**, l’**analyse exploratoire (EDA)**, la **sélection de variables orientée métier**, ainsi que la **normalisation et la mise à l’échelle (scaling)** des features, afin de fournir des datasets cohérents et **directement exploitables** par les équipes Data Science et Machine Learning.
+
+---
 
 
-##  Contact
+
+## Contact
 🌐 [LinkedIn](https://www.linkedin.com/in/bibata-sombie)
 
 ---
