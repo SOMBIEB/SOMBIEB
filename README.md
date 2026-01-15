@@ -12,7 +12,7 @@ ou parcourez ci-dessus un **résumé des projets clés** présentés à travers 
 - Master **Intelligence Artificielle**
 - Certificat HarvardX **Data Science Professional**
 - Formations Cloud : **AWS**, **Azure**, **OCI**
-- 🥇 Mémoire Master (18/20) : *Plateforme collaborative et IA pour enfants TND*
+- 🥇 Mémoire Master (18/20) : *Plateforme collaborative et IA pour le suivi des enfants avec un TND*
 
 ---
 
@@ -44,12 +44,9 @@ ou parcourez ci-dessus un **résumé des projets clés** présentés à travers 
 ---
 
 ## Compétences clés
-- Analyse de données & **EDA**
-- **Machine Learning / Deep Learning**
-- Feature engineering & **normalisation / scaling**
-- Déploiement : **Docker**, API, logique **MLOps**
-- Visualisation & reporting orientés **décision métier**
-- Domaines : **Santé · Finance · Marketing · Supply Chain**
+- Analyse de données & **EDA** · **Machine Learning / Deep Learning** · Feature engineering & **normalisation / scaling**  
+Déploiement : **Docker**, API, logique **MLOps** · Visualisation orientée **décision métier** · Domaines : **Santé · Finance · Marketing · Supply Chain**
+*
 
 ---
 
