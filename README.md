@@ -1,12 +1,15 @@
 ## Bibata SOMBIÉ
-**Data & Business Intelligence Analyst | Data Science (Machine Learning & NLP)**
 ---
-👉 **[Accéder directement à mon portfolio](#portfolio)**  
-👉 **[Voir l’ensemble de mes projets sur GitHub](https://github.com/SOMBIEB?tab=repositories)**  
+### **Data & Business Intelligence Analyst | Data Science (Machine Learning & NLP)**
+
+👉 **[Cliquez ici pour accéder à mon portfolio](#portfolio)**  
+Vous y trouverez une sélection de projets en **Business Intelligence & Data Analysis** (*Data & BI – Analyse & Aide à la décision*), ainsi que des projets en **Data Science** et **Machine Learning**.
+👉 **[Voir l’ensemble de mes projets public sur GitHub](https://github.com/SOMBIEB?tab=repositories)**
+
 ---
 
 ## Réalisations & Formations
-- Master **Intelligence Artificielle** et **Gouvernance de données**
+- Master **Intelligence Artificielle** et **Gouvernance des données**
 - Certificat HarvardX **Data Science Professional**
 - Formations Cloud : **AWS**, **Azure**, **OCI**
 - 🥇 Mémoire Master (18/20) : *Plateforme collaborative et IA pour le suivi des enfants avec un TND*
