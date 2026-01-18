@@ -1,15 +1,12 @@
 ## Bibata SOMBIÉ
-
-**AI Engineer · Data Scientist · Machine Learning & NLP**  
-Python · SQL · Power BI
+**Data & Business Intelligence Analyst | Data Science (Machine Learning & NLP)**
 ---
-👉 **[Cliquez ici pour visualiser l’ensemble de mes projets en détail](https://github.com/SOMBIEB?tab=repositories)**  
-ou parcourez ci-dessus un **résumé des projets clés** présentés à travers mon portfolio.
-
+👉 **[Accéder directement à mon portfolio](#portfolio)**  
+👉 **[Voir l’ensemble de mes projets sur GitHub](https://github.com/SOMBIEB?tab=repositories)**  
 ---
 
 ## Réalisations & Formations
-- Master **Intelligence Artificielle**
+- Master **Intelligence Artificielle** et **Gouvernance de données**
 - Certificat HarvardX **Data Science Professional**
 - Formations Cloud : **AWS**, **Azure**, **OCI**
 - 🥇 Mémoire Master (18/20) : *Plateforme collaborative et IA pour le suivi des enfants avec un TND*
